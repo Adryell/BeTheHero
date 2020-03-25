@@ -30,9 +30,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="Frontend" src=".github/codding.jpg" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
@@ -45,7 +42,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
+O Be The Hero é um projeto que visa ajudar ONG's a arrecadarem contribuições em dinheiro para casos específicos de ajuda a esta ONG.
 
 ## 🤔 Como contribuir
 

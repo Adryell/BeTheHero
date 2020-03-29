@@ -13,15 +13,17 @@ describe('ONG', () => {
     });
 
     it('should be able to create a new ONG', async () => {
-        const response = await request(app).post('/ongs').send({
-            name: "ONG de teste",
-            email: "ongteste@ong.com.br",
-            whatsapp: "4599999999",
-            city: "Foz do Iguaçu",
-            uf: "PR"
-        });
+        const response = await request(app)
+            .post('/ongs')
+            .send({
+                name: "ONG de teste",
+                email: "ongteste@ong.com.br",
+                whatsapp: "4599999999",
+                city: "Foz do Iguaçu",
+                uf: "PR"
+            });
 
         expect(response.body).toHaveProperty('id');
-        expect(request.body.id).toHaveLength(8);
-    })
+        expect(response.body.id).toHaveLength(8);
+    });
 });

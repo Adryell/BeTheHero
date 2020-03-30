@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="BeTheHero" title="#delicinha" src=".github/bethehero.svg" width="250px" />
+    <img alt="BeTheHero" src=".github/logo.svg" />
 </h1>
 
 <h4 align="center">

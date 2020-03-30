@@ -6,16 +6,16 @@
   🚀 Semana OmniStack 11.0 ⚛
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rocketseat/Stack11">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Adryell/BeTheHero">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Rocketseat/Stack11">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Adryell/BeTheHero">
   
   <a href="https://github.com/Rocketseat/Stack11/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Rocketseat/Stack11">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Adryell/BeTheHero">
   </a>
 
   <a href="https://github.com/Rocketseat/Stack11/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/Rocketseat/Stack11">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/Adryell/BeTheHero">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">

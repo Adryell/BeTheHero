@@ -10,11 +10,11 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Adryell/BeTheHero">
   
-  <a href="https://github.com/Rocketseat/Stack11/commits/master">
+  <a href="https://github.com/Adryell/BeTheHero/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Adryell/BeTheHero">
   </a>
 
-  <a href="https://github.com/Rocketseat/Stack11/issues">
+  <a href="https://github.com/Adryell/BeTheHero/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/Adryell/BeTheHero">
   </a>
 
